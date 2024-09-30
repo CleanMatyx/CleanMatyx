@@ -1,3 +1,8 @@
+<p align = "center">
+  <img src="images/presentacion.png">
+  <img src="images/portada.png">
+</p>
+
 <h1 align="center">Hi 👋, I'm Matías!</h1>
 <h3 align="center">"Second-year student pursuing a dual degree in Cross-Platform Application Development (DAM) and Web Application Development (DAW)."</h3>
 
