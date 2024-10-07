@@ -1,5 +1,7 @@
 
+<p align="center" ><img align="center" src="images/saludo_negro.gif"/></p>
 <h1 align="center">Hi 👋, I'm Matías!</h1>
+<img align="center" src="images/saludo_#24292e.gif/>
 <h3 align="center">"Second-year student pursuing a dual degree in Cross-Platform Application Development (DAM) and Web Application Development (DAW)."</h3>
 <div align="center">
 	<img aling="left" src="images/hackerman.gif" alt="Lo que creen que hago">
