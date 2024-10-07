@@ -13,6 +13,7 @@
 <a href="https://es.wikipedia.org/wiki/Windows_95" target="blank"><img align="center" src="images/badge5.gif" alt="https://www.linkedin.com/in/mat%c3%adas-e-borra-quiroz-6841831a7/" height="30" width="100" /></a>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=cleanmatyx&label=Profile%20views&color=0e75b6&style=flat" alt="cleanmatyx" /> </p>
 </p>
+<img align="center" scr="images/piratas.gif">
 <br><br><br>
 <p align="center" ><img align="center" src="images/under-construction.gif"/></p>
 
