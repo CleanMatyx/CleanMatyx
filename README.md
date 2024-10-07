@@ -1,5 +1,5 @@
 
-<p align="center" ><img src="images/saludo_#24292e.gif"/></p>
+<p align="center" ><img src="images/saludo_2.gif"/></p>
 
 <h3 align="center">"Second-year student pursuing a dual degree in Cross-Platform Application Development (DAM) and Web Application Development (DAW)."</h3>
 <div align="center">
