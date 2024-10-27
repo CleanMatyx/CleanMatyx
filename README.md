@@ -1,7 +1,7 @@
 
 <p align="center" ><img src="images/saludo_github.gif"/></p>
 
-<h3 align="center">"Second-year student pursuing a dual degree in Cross-Platform Application Development (DAM) and Web Application Development (DAW)."</h3>
+<h3 align="center">"Second-year student pursuing a dual degree in Cross-Platform Application Development (DAM) and Web Application Development (DAW)"</h3>
 <div align="center">
 	<img aling="left" src="images/hackerman.gif" alt="Lo que creen que hago">
   	<img aling="right" src="images/cat-typing.gif" alt="Lo que realmente hago" heigth="150" width="218">
