@@ -16,11 +16,10 @@
   <br><br>
 </div>
 
-<!-- Estadísticas de GitHub (lenguajes más usados) -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cleanmatyx&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="cleanmatyx">
-
 <!-- Sección de Conexión -->
 <br><br><br>
+<!-- Estadísticas de GitHub (lenguajes más usados) -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cleanmatyx&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="cleanmatyx">
 <h3 align="right">Connect with me:</h3>
 <p align="right">
   <a href="https://www.linkedin.com/in/mat%c3%adas-e-borra-quiroz-6841831a7/" target="_blank">
