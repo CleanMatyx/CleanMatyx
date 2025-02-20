@@ -14,25 +14,3 @@
 </p>
 <br><br><br>
 <p align="center" ><img align="center" src="images/under-construction.gif"/></p>
-
-
-public class Readme {
-    public static void main(String[] args) {
-        System.out.println("Bienvenido a ${NOMBRE_DEL_PROYECTO}!");
-        System.out.println("Para más información, revisa el README.");
-        
-        // Información personalizable:
-        String descripcion = "${DESCRIPCION_DEL_PROYECTO}";
-        String versionJava = "${VERSION_JAVA}";
-        String urlRepo = "${URL_DEL_REPOSITORIO}";
-        String licencia = "${TIPO_DE_LICENCIA}";
-        String contacto = "${EMAIL_DE_CONTACTO}";
-        
-        // Imprime detalles del proyecto
-        System.out.println("Descripción: " + descripcion);
-        System.out.println("Requiere Java " + versionJava);
-        System.out.println("Repositorio: " + urlRepo);
-        System.out.println("Licencia: " + licencia);
-        System.out.println("Contacto: " + contacto);
-    }
-}
