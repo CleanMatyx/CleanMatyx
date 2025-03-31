@@ -14,3 +14,7 @@
 </p>
 <br><br><br>
 <p align="center" ><img align="center" src="images/under-construction.gif"/></p>
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@mtsbrr0797594/30-nites-of-code)  
+  ![@mtsbrr0797594 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=mtsbrr0797594)
