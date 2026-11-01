@@ -5,40 +5,29 @@
 
 <h3 align="center">
   🚀 Full-Stack Software Developer (DAM & DAW)<br>
-  <b>Specializing in .NET, Laravel & AI / Big Data</b>
+  🎓 <b>Master's in Artificial Intelligence & Big Data</b><br>
+  <sub>Specializing in .NET, Laravel, Cloud Architecture & Machine Learning</sub>
 </h3>
 
 <br>
 
-<!-- Sección de Humor -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Expectation 🕶️</b></td>
-      <td align="center"><b>Reality 🐱</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/cleanmatyx/cleanmatyx/main/images/hackerman.gif" alt="Lo que creen que hago" height="150" />
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/cleanmatyx/cleanmatyx/main/images/cat-typing.gif" alt="Lo que realmente hago" height="150" width="218" />
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- Sección de Humor a ancho completo y sin bordes -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cleanmatyx/cleanmatyx/main/images/hackerman.gif" alt="Lo que creen que hago" width="49%" height="270" />
+  <img src="https://raw.githubusercontent.com/cleanmatyx/cleanmatyx/main/images/cat-typing.gif" alt="Lo que realmente hago" width="49%" height="270" />
+</p>
 
 <br>
 
 <!-- Tech Stack -->
 <h3 align="center">🛠️ Tech Stack & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,ts,react,angular,python,mysql,postgres,docker,linux,git&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,ts,react,angular,python,pytorch,tensorflow,mysql,postgres,docker,linux,git&theme=dark" alt="Tech Stack" />
 </p>
 
 <br>
 
-<!-- Estadísticas de GitHub (Servidores estables en tema Synthwave) -->
+<!-- Estadísticas de GitHub -->
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cleanmatyx&theme=synthwave" height="165" alt="GitHub Stats" />
