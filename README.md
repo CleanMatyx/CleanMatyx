@@ -11,10 +11,10 @@
 
 <br>
 
-<!-- Sección de Humor a ancho completo y sin bordes -->
+<!-- Sección de Humor con dimensiones en píxeles fijos (misma altura exacta y ancho completo) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cleanmatyx/cleanmatyx/main/images/hackerman.gif" alt="Lo que creen que hago" width="49%" height="270" />
-  <img src="https://raw.githubusercontent.com/cleanmatyx/cleanmatyx/main/images/cat-typing.gif" alt="Lo que realmente hago" width="49%" height="270" />
+  <img src="https://raw.githubusercontent.com/cleanmatyx/cleanmatyx/main/images/hackerman.gif" alt="Lo que creen que hago" width="435" height="280" />
+  <img src="https://raw.githubusercontent.com/cleanmatyx/cleanmatyx/main/images/cat-typing.gif" alt="Lo que realmente hago" width="435" height="280" />
 </p>
 
 <br>
